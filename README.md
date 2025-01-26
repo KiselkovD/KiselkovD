@@ -1,6 +1,6 @@
 ## Hi there
 
-here you can find some info about me and my project: [link](https://github.com/KiselkovD/about)
+here you can find some info about me and my projects: [link](https://github.com/KiselkovD/about)
 
 <!--
 **KiselkovD/KiselkovD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
